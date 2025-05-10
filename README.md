@@ -1,2 +1,1 @@
-# Banco-de-Dados-
-Foi um banco de dados onde populei ele com algumas informações para usar num sistema veterinário.
+Acredito que na parte de banco de dados eu não tive nenhum problema, eu ja tinha visto isso antes, porém a parte de backend e frontend eu não consegui fazer, tive bastante dificuldade, eu nunca tinha visto algo nas linguagens pedidas (Angular2+ e React), entretanto na parte de backend eu tive um avanço além, comparado a parte de frontend, realmente, eu não tenho experiência nenhuma, mas o frontend eu não entendia nada.
